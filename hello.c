@@ -1,6 +1,8 @@
 #include<stdio.h>
 void main()
 {
- print("Hello World...!!!");
+  printf("Hello World...!!!");
+ 
+  printf("\n This is basic c program");
  }
  
